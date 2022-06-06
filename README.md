@@ -2,7 +2,7 @@
 
 ## I'm a student and developer
 
-- 🌱 Learning Python and Python
+- 🌱 Learning Python and Flutter
 
 <div align="center">
 <img width="450em" alt="Status Github Alberto" src="https://github-readme-stats.vercel.app/api?username=albertowill&show_icons=true&theme=dracula" />
